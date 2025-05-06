@@ -1,0 +1,24 @@
+Report created: 
+	5/7/2025	12:12:55 AM
+
+Project name: log animation.aep
+
+Source files collected to: 
+	D:\Sahayatri\log animation folder
+
+Source files collected: None
+
+Collected comps:  
+	Comp 1
+	logo
+	logo animation
+	
+Number of collected files:  0
+
+Size of collected files:  0 KB
+
+Number of missing items:  2
+
+Rendering plug-ins:
+	Classic 3D
+	
